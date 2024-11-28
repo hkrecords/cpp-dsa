@@ -3,7 +3,7 @@ using namespace std;
 
 // map - has keys and values - unique keys in sorted order
 
-void explainList () {
+void explainMap () {
     map<int, int> mpp;
 
     map<pair<int, int>, int> mp1; // here key is two integers and value is one.
